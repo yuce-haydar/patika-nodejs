@@ -5,7 +5,7 @@
  function circleCircumference (r){
     console.log('yarıcap:',r)
 }
-//!fonksiyonlarımızı actık dısarı actık
+//!fonksiyonlarımızı actık dısarı actık 
 module.exports={
 circleArea,
 circleCircumference
